@@ -1,0 +1,27 @@
+# Query: Travis G. Paul
+# Flags: CaseSensitive WordMatch RegExp
+# Including: ./me
+# ContextLines: 1
+
+5 results - 1 file
+
+me/web-server/src/app.js:
+  24          title: 'Weather',
+  25:         name: 'Travis G. Paul'
+  26      })
+
+  31          title: 'About Me',
+  32:         name: 'Travis G. Paul'
+  33      })
+
+  39          title: 'Help',
+  40:         name: 'Travis G. Paul'
+  41      })
+
+  85          title: '404',
+  86:         name: 'Travis G. Paul',
+  87          errorMessage: 'Help article not found.'
+
+  93          title: '404',
+  94:         name: 'Travis G. Paul',
+  95          errorMessage: 'Page not found.'
